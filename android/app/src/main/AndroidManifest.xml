@@ -19,7 +19,7 @@
     <uses-permission android:name="android.permission.CAMERA" />
 
     <application
-        android:label="VPN Client"
+        android:label="Selim VPN"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
