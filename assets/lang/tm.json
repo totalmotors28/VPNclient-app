@@ -1,0 +1,51 @@
+{
+
+"app_name": "Selim VPN programmasy",
+
+"apps_selection": "Programma saýlamagy",
+
+"search": "Gözleg",
+
+"your_location": "Siziň ýerleşýän ýeriňiz",
+
+"auto_select": "Awtomatik saýlamagy",
+
+"kazakhstan": "Gazagystan",
+
+"turkey": "Türkiýe",
+
+"polland": "Polşa",
+"fastest": "Iň çalt",
+"selected_server": "Saýlanan serwer",
+"server_selection": "Serwer saýlamagy",
+"all_servers": "Ähli serwerler",
+"country_name": "Ýurduň ady",
+"all_apps": "Ähli programmalar",
+"done": "Done",
+"cancel": "Ýatyrmak",
+
+"recently_searched": "Ýakynda gözlendi",
+"nothing_found": "Hiç zat tapylmady",
+"connected": "BAGLANDY",
+"disconnected": "DISCONNECTED",
+
+"reconnected": "Gaýtadan birikdirilýär",
+"connecting": "BIRIKLEŞÝÄR",
+"disconnecting": "ÖÇÜRILÝÄR",
+"settings": "Sazlamalar",
+"version": "Wersiýa",
+"connection": "Birikýär",
+"not_connected": "Birikmedi",
+"support": "Goldaw",
+"unavailable": "Elýeterli däl",
+"your_id": "Siziň ID-ňiz",
+"support_service": "Goldaw Hyzmaty",
+"reset_settings": "Sazlamalary täzeden sazlamak",
+"connect": "Birikdirmek",
+
+"are_you_sure_reset": "Ähli baglanyşyk sazlamalaryny täzeden sazlamak isleýändigiňize ynanýarsyňyzmy?",
+"reset": "Täzeden sazlamak",
+"connection_reset": "Birikdiriş sazlamalary täzeden sazlamak",
+"failed_open_telegram": "Telegram botyny açyp bolmady",
+"about_app": "Programma barada"
+}
