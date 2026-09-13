@@ -1,5 +1,5 @@
-name: vpn_client
-description: "VPNClient"
+name: selim_vpn_app
+description: "Selim VPN App"
 publish_to: 'none'
 version: 1.1.0
 
@@ -21,7 +21,6 @@ dependencies:
   url_launcher: ^6.3.1
   flutter_dotenv: ^5.1.0
   app_links: ^3.4.5
-  intl: ^0.20.2
   vpnclient_engine_flutter: ^1.0.5+10
 
 dev_dependencies:
